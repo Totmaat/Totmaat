@@ -50,7 +50,6 @@ Python • Java • C# • PHP • MySQL • Linux • Anaconda • VS Code • 
 ![GitHub profile summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aesaertthomas&theme=dracula)
 
 ## Current project
-**RC & Robotics:** teaming up with an aerospace friend to experiment with an autonomous rocket — mid-flight object tracking and autonomy. Learning > hype.
+**RC & Robotics:** teaming up with an aerospace friend to experiment with an autonomous rocket — mid-flight object tracking and autonomy. 
 
-**app** Currently working with 2 classmates to build an app we wish we had in the beginning of our college life already. (further info will come don't worry)
 
