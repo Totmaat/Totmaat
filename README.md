@@ -1,18 +1,9 @@
 # Hey
 
-I’m Thomas — a student in AI engineering from near Kortrijk, Belgium.
+I’m Thomas — a student in AI engineering from near Kortrijk, Belgium. <br>
+My business websol systems is a consultancy and software development agency. <br><br>
 
-## About me
-I build practical things at the intersection of **AI**, **robotics**(dronses and aviation related), **software**, **operating systems**, and **computer networks**. I like small, fast, understandable systems.
-
-- **AI enthusiast:** hands-on ML, building smarter tools (not hype).
-- **Aviation nerd:** rockets, RC planes, and control systems.
-- **Tech tinkerer:** repurposing old gear for new projects.
-
-## Tech interests
-- **Focus:** data filtering & viz, robotics/gimbals  
-- **Backend Systems:** I love tinkering with setting up servers, and API's, ...
-
+If you have any ideas or cool projects you'd like to bring to life don't hesitate to reach out to me at info@thomasaesaert.com
   
 
 ## Languages & tools
